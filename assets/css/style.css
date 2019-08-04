@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url("../images/confetti.png");
+    background-color: white;
+    font-family: 'Julius Sans One', sans-serif;
+    opacity: 0.8;
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(38, 216, 192);
+    align-content: center
+
+}
+
+h2 {
+    font-style: italic;
+}
