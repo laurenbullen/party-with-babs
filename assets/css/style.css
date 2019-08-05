@@ -2,13 +2,13 @@
     background-image: url("../images/confetti.png");
     background-color: white;
     font-family: 'Julius Sans One', sans-serif;
-    opacity: 0.8;
+    opacity: 0.70;
 }
 
 h1 {
     font-size: 80px;
     color: rgb(38, 216, 192);
-    align-content: center
+    align-content: center;
 
 }
 
