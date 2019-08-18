@@ -1,12 +1,13 @@
 .jumbotron {
     background-image: url("../images/confetti.png");
     background-color: white;
-    font-family: 'Julius Sans One', sans-serif;
     opacity: 0.70;
 }
 
+
 h1 {
     font-size: 80px;
+    font-family: 'Cedarville Cursive', cursive;
     color: rgb(38, 216, 192);
     align-content: center;
 
@@ -14,4 +15,20 @@ h1 {
 
 h2 {
     font-style: italic;
+    font-family: 'Cedarville Cursive', cursive;
+    color: black
+    /* font-family: 'Julius Sans One', sans-serif; */
+}
+
+.navbar {
+    background-color: rgb(255, 223, 228);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: x-large;
+    border-block-color: pink;
+}
+
+.nav-item {
+    padding-right: 25px;
+    padding-left: 25px;
+
 }
