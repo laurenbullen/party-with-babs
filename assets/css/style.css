@@ -1,13 +1,14 @@
 .jumbotron {
     background-image: url("../images/confetti.png");
     background-color: white;
-    opacity: 0.70;
+    opacity: 0.7;
+    border-bottom: 10px;
 }
 
 
 h1 {
-    font-size: 80px;
-    font-family: 'Cedarville Cursive', cursive;
+    font-size: 100px;
+    font-family: 'Amatic SC', cursive;
     color: rgb(38, 216, 192);
     align-content: center;
 
@@ -24,7 +25,7 @@ h2 {
     background-color: rgb(253, 236, 239);
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: x-large;
-    bottom: 33px;
+    /* bottom: 33px; */
     position: relative;
 }
 
@@ -49,8 +50,6 @@ h2 {
 
 .party-type {
     color: rgb(37, 83, 235);
-    -webkit-text-stroke-width: .1px;
-    -webkit-text-stroke-color: grey;
 }
 
 .check-lists {
