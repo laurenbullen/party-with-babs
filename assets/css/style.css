@@ -21,14 +21,42 @@ h2 {
 }
 
 .navbar {
-    background-color: rgb(255, 223, 228);
+    background-color: rgb(253, 236, 239);
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: x-large;
-    border-block-color: pink;
+    bottom: 33px;
+    position: relative;
 }
 
 .nav-item {
     padding-right: 25px;
     padding-left: 25px;
+    
 
+}
+
+.meet-babs {
+    color: rgb(250, 73, 212)
+}
+
+.decor {
+    color: rgb(27, 219, 245)
+}
+
+.party-themes {
+    color: lime;
+}
+
+.party-type {
+    color: rgb(37, 83, 235);
+    -webkit-text-stroke-width: .1px;
+    -webkit-text-stroke-color: grey;
+}
+
+.check-lists {
+    color: rgb(252, 176, 35)
+}
+
+.contact {
+    color: rgb(180, 11, 180)
 }
